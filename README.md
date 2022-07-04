@@ -8,8 +8,6 @@ To Do List:
 * Use Redux for adding deleting and storing the todo list of user <br>
 <hr>
 
-## Available Scripts
-
 In the project directory, you can run:
 ### `npm start`
 
